@@ -1,0 +1,13 @@
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.InitialCreate.resources
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+D:\Software\Dot_net\EntityFrame_Work\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Migrations.version1.resources
